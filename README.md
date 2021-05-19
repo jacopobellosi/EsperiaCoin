@@ -7,7 +7,7 @@ hello, this is a basic example file that i used for create my first token with t
   link to ropster etherscan: https://ropsten.etherscan.io/token/0x74d5ad39798289d4d2809316896ec5eb38ceb8bf
 </p>
 <p>
-    link for my API: https://esperiacoin.altervista.org/api.html
+    here there is the link to the ufficial website: https://esperiacoin.altervista.org/
  </p>
 <br/>
 Metadata of "esperiacoin" was published successfully.
